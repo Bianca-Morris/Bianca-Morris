@@ -2,6 +2,7 @@
 - 👀 I’m interested in new media and web-based projects
 - 🌱 I’m currently learning Digital Media Design at HES
 - 💞️ I’m looking to collaborate on JS stuff
+- 🎨 My portfolio is at https://www.biancamorris.com/
 
 <!---
 Bianca-Morris/Bianca-Morris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
